@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: acme-corp
+  name: audio-tech-dev
   description: The Audio technical Development organization
   links:
     - url: http://www.audio-tech-dev.com/
