@@ -6,6 +6,6 @@ metadata:
 spec:
   targets:
     - ./components/artist-lookup-example.yaml
-    - ./components/standard-VCA-Juno60.yaml
-    - ./components/advanced-LFO-D50.yaml
-    - ./components/vintage-VCF-KorgMS20.yaml
+    - ./components/advanced-multibandComp.yaml
+    - ./components/standard-clipper.yaml
+    - ./components/AnalogTapeModel.yaml
