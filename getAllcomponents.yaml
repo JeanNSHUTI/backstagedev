@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: example-components
+  description: A collection of example Backstage components in an audio development company
+spec:
+  targets:
+    - ./components/artist-lookup-example.yaml
+    - ./components/standard-VCA-Juno60.yaml
+    - ./components/advanced-LFO-D50.yaml
+    - ./components/vintage-VCF-KorgMS20.yaml
