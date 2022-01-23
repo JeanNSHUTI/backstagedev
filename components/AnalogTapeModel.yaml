@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: AnalogTapeModel
+  # This is an extra long description
+  description: The AnalogTapeModel is an example code/api/service that can be catalogged by Backstage.io.
+  links:
+    - url: https://github.com/jatinchowdhury18/AnalogTapeModel
+      title: GitHub Repo
+      icon: github
+spec:
+  type: plugin
+  lifecycle: experimental
+  owner: jatinchowdhury18
