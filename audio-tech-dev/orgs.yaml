@@ -27,5 +27,4 @@ spec:
     - ./backstage-group.yaml
     - ./team-a-group.yaml
     - ./team-b-group.yaml
-    - ./team-c-group.yaml
-    - ./team-d-group.yaml
+
