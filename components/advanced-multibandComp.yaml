@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Advanced-multibandComp
+  # This is an extra long description
+  description: The advanced-multibandComp is an example of audio code/api/service that can be accessed by company employees via Backstage.
+  links:
+    - url: https://github.com/jcurtis4207/Juce-Plugins/tree/master/Clipper
+      title: GitHub Repo
+      icon: github
+spec:
+  type: plugin
+  lifecycle: experimental
+  owner: jcurtis4207
